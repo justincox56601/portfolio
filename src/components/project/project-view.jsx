@@ -17,7 +17,7 @@ export const ProjectView = () =>{
 		},
 		{
 			title: "Gidakiim Weather Collection Project",
-			description: "This project is for a local college to aid in the collection and visualization of their weather research project. This site, hosted on an AWS EC2 instance, uses a simple graph interface to display several years worth of local weath data including preciptation, wind, humidity, etc...  The data for this is collected from several APIs as well as local weather collection devices called HOBOs.",
+			description: "This project is for a local college to aid in the collection and visualization of their weather research project. This site, hosted on an AWS EC2 instance, uses a simple graph interface to display several years worth of local weath data including preciptation, wind, humidity, etc...  The data for this is collected from several APIs as well as local weather collection devices called HOBOs. The live site can be found <a href='http://18.117.168.211/' target='blank'>here</a>",
 			languages: "HTML, CSS, React.Js, Javascript, AWS, MySQL",
 			codeLink:'https://github.com/justincox56601/gidakiim',
 		},
